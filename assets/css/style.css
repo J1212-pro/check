@@ -1259,6 +1259,12 @@ body {
 */
 
 @media (max-width: 992px) {
+  .logo {
+    color: rgb(14, 139, 81);
+    font-size: 2rem;
+    font-weight: var(--fw-700);
+    font-family: Algerian;
+  }
   
   .team { background-color: var(--ghost-white); }
   
